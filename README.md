@@ -1,10 +1,12 @@
 # AntiTheft
-Tool make bad people angry
+> Tool make bad people angry
 
 # Requirements
-Ruby
+> Ruby
 
 # Setup
-cd projectdirectory/
-bundle i faker
-ruby anti_theft.rb
+> cd projectdirectory/
+> 
+> bundle i faker
+> 
+> ruby anti_theft.rb
