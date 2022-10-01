@@ -5,8 +5,4 @@
 > Ruby
 
 # Setup
-> cd projectdirectory/
-> 
-> bundle i faker
-> 
-> ruby anti_theft.rb
+> run anti_theft.rb
