@@ -1,5 +1,5 @@
 # AntiTheft
-> Tool make bad people angry
+> Pen test tool for form input
 
 # Requirements
 > Ruby
